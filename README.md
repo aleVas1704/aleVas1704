@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Alex 👾
 
-<!--
-**aleVas1704/aleVas1704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ignacio Alex Escobar Vásquez and I am currently studying Systems Engineering.  
+I like programming, designing databases, and using agile methodologies to build applications ♟️
 
-Here are some ideas to get you started:
+## 📚 Currently
+- Learning Git and GitHub  
+- Improving my programming logic  
+- Working on small projects to practice  
+- Focused on passing my courses  
+- Focused on getting into SCESI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies I use
+- Java  
+- Python  
+- JavaScript  
+- React  
+- MySQL  
+- Git  
+- GitHub  
+- Visual Studio Code  
+- NetBeans  
+
+## 🌎 English Level
+- Basic (A2)
+  
+## 🎯 Objective
+To keep growing in the world of programming, constantly learning and putting into practice the ideas that come up in my daily life, turning them into real solutions through software.
+
+## 📫 Contact
+- alexescobar5051@gmail.com  
