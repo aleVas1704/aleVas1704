@@ -22,7 +22,7 @@ I like programming, designing databases, and using agile methodologies to build 
 - NetBeans  
 
 ## 🌎 English Level
-- Basic (A2)
+- Intermedium (B2)
   
 ## 🎯 Objective
 To keep growing in the world of programming, constantly learning and putting into practice the ideas that come up in my daily life, turning them into real solutions through software.
